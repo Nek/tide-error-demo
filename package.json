@@ -1,0 +1,7 @@
+{
+  "name": "tide-error-demo",
+  "version": "1.0.0",
+  "description": "Tide (or typescript server) minimal error example.",
+  "main": "index.js",
+  "license": "MIT"
+}
